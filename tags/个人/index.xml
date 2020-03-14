@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>个人 on ExcellentDavid | 追求卓越的大伟</title>
-    <link>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA/</link>
+    <link>http://excellentdavid.net/tags/%E4%B8%AA%E4%BA%BA/</link>
     <description>Recent content in 个人 on ExcellentDavid | 追求卓越的大伟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://excellentdavid.net/tags/%E4%B8%AA%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>我的第一篇博文</title>
-      <link>http://localhost:1313/post/init/</link>
+      <link>http://excellentdavid.net/post/init/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/init/</guid>
+      <guid>http://excellentdavid.net/post/init/</guid>
       <description>博客建立好啦，将来可以更新文章了</description>
     </item>
     
