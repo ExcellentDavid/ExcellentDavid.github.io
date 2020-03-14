@@ -384,7 +384,27 @@
 
   
 
-  
+  <div class="post bg-white">
+      <div id="comments-gitment"></div>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitment@0.0.3/style/default.min.css" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/gitment@0.0.3/dist/gitment.browser.min.js" crossorigin="anonymous"></script>
+      <script type="text/javascript">
+      const gitment = new Gitment({
+        id: 'init.md',
+        title: '我的第一篇博文',
+        link: decodeURI(location.href),
+        desc: '博客建立好啦，将来可以更新文章了',
+        owner: 'ExcellentDavid',
+        repo: 'BlogComment',
+        oauth: {
+          client_id: '0585d1e26ae8e1f3ce80',
+          client_secret: '93aa43f413e18dda17ed3101d6110fcc1d6e5177'
+        }
+      })
+      gitment.render('comments-gitment')
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
+    </div>
 
   
 
