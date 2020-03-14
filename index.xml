@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ExcellentDavid | 追求卓越的大伟</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ExcellentDavid | 追求卓越的大伟</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;感谢大家的关注！&lt;/p&gt;
+&lt;p&gt;我是追求卓越的大伟&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>我的第一篇博文</title>
+      <link>http://localhost:1313/post/init/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/init/</guid>
+      
+        <description>&lt;p&gt;博客建立好啦，将来可以更新文章了&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
